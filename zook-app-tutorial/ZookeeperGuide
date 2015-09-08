@@ -1,0 +1,10 @@
+Download zookeeper from below link
+http://www.apache.org/dist/zookeeper/zookeeper-3.4.6/
+Extract it
+Create 'data' folder inside 'zookeeper-3.4.6' folder
+
+Start zkServer.bat in window and zkServer.sh in linux to start zookeeper server from zookeeper-3.4.6/bin directory
+Start zkCli.bat in window and zkCli.sh in linux to start zookeeper client from zookeeper-3.4.6/bin directory
+For tutorial, you can followup follwoing link.
+https://www.youtube.com/watch?v=Dm-yKKSa6VY&index=1&list=PLcJ7Ar5qZeeFCZhhl9WTdsybTvSaVRnP6
+
